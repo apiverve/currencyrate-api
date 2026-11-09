@@ -1,7 +1,7 @@
 {
     "name": "apiverve/currencyrate",
     "description": "Currency Rate returns one currency's live value in US dollars or any other base, across 170+ currencies, with its name, symbol and direction since yesterday. Paid plans add any base currency, 1-day to 1-year changes, 24-hour and 30-day highs and lows, and hourly and 30-day daily history.",
-    "version": "1.2.4",
+    "version": "1.2.5",
     "type": "library",
     "license": "MIT",
     "authors": [
