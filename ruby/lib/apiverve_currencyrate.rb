@@ -4,6 +4,6 @@ require_relative "apiverve_currencyrate/client"
 
 module APIVerve
   module Currencyrate
-    VERSION = "1.2.5"
+    VERSION = "1.2.6"
   end
 end
